@@ -1,1 +1,33 @@
-# sample-code
+# Weekly Journal 
+
+## Week 1 - Janurary 11,2026
+This week feels like a masterclass in 'pivoting'. Whether it was the investment strategy, or the family calendar, nothing stayed as originally planned, but every adjustment ended in a better position than where it started.
+
+On Finance: 
+* The deeper dive into the AGF Global Select $100k account-level vs. $250k household-level thresholds was a reminder that the "fine print" matters. Even though we didn't move the $17k cash from the HISA, I feel a sense of clarity about the typical tiered pricing strategy of mutual funds. 
+* We aren't just "investing"; we are architecting a system that works automatically. 
+* Having those hedge fund forms signed and off my plate is a huge weight lifted.
+
+On Family: 
+* Advocating for Avery is always a priority. It was disappointing that the lunch chess program was full, but I’m proud of how I handled the conversation with Andrew and Keesha. 
+* We avoided a "sunk cost" by getting a refund rather than a credit that might have vanished. 
+* It’s a lesson in staying firm on what works for our schedule rather than trying to force a "perfect" extracurricular life.
+* Avery and I came closer to the decision that hockey is her most favoriate extracurricular activity this year. 
+
+On Career:
+* TPM application to Google Ads team was a 'high point'. 
+* Shun helpe with updating my resume and reference, highlighting my experience with delibrate key words is a big improvement to the resume's structure and readability. 
+
+On Market Analysis: 
+* 1. The "January Effect" vs. The Missed "Santa Rally"
+** The S&P 7,000 Milestone: Ending the week at ~6,966 is a massive psychological level. It suggests strong institutional "buy-in" for the new year.
+** Small-Cap Leadership: The Russell 2000 outperforming (3.2% YTD) indicates a "risk-on" environment. This validates your move into AQR Apex and Polar, which often thrive when market leadership broadens beyond just "Big Tech."
+
+** This week was the culmination of a three-month journey. Looking back at November, it felt like a defeat—having the refinanced lending ready but being physically unable to act because of the wave of illness that hit the family. 
+It was a stark reminder that "Health is Wealth"; without the first, you can't manage the second.
+** While we missed the Novemeber pull back due to the wave of illness, the market’s flat December provided a rare "second door." 
+While many were chasing a Santa Rally that never came, we used that quiet period to re-examine and refine our strategy.
+** The "January Effect" is in full swing, and by getting the Wood Gundy trades executed in December, we are catching the momentum in tech and small-cap while balancing it with the commodities surge and riding along the January effect.
+
+We've moved from a "defensive" posture (dealing with illness and missed windows) to a "proactive" one (finalizing subscriptions and resolving family logistics). 
+It is a benchmark for our family's resilience since 2025. 
