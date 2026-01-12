@@ -23,7 +23,7 @@ On Market Analysis:
 ** The S&P 7,000 Milestone: Ending the week at ~6,966 is a massive psychological level. It suggests strong institutional "buy-in" for the new year.
 ** Small-Cap Leadership: The Russell 2000 outperforming (3.2% YTD) indicates a "risk-on" environment. This validates your move into AQR Apex and Polar, which often thrive when market leadership broadens beyond just "Big Tech."
 
-** This week was the culmination of a three-month journey. Looking back at November, it felt like a defeat—having the refinanced lending ready but being physically unable to act because of the wave of illness that hit the family. 
+## This week was the culmination of a three-month journey. Looking back at November, it felt like a defeat—having the refinanced lending ready but being physically unable to act because of the wave of illness that hit the family. 
 It was a stark reminder that "Health is Wealth"; without the first, you can't manage the second.
 ** While we missed the Novemeber pull back due to the wave of illness, the market’s flat December provided a rare "second door." 
 While many were chasing a Santa Rally that never came, we used that quiet period to re-examine and refine our strategy.
